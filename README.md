@@ -9,11 +9,16 @@
 * ✉️  You can contact me at [jerald.constantino@g.batstate-u.edu.ph](mailto:jerald.constantino@g.batstate-u.edu.ph)
 * 🧠  I'm currently learning <b>web development</b>.
 * 🤝  I'm open to collaborating on any software development projects.
-* 📃  I'm currently working on my thesis entitled <i>Monitoring and Classification of Nitrate Sufficiency in Lettuce from an Aquaponic System based on Its Physiological Status using a Machine Vision Approach</i>.
+* 📃  I'm currently working on my Thesis entitled <i>Monitoring and Classification of Nitrate Sufficiency in Lettuce from an Aquaponic System based on Its Physiological Status using a Machine Vision Approach</i>.
 
-### EDUCATION
+## EDUCATION
+<p align="left">
+<b>Bachelor of Science in Computer Engineering</b><br>
+Batangas State University: The National Engineering University<br>
+<i>Expected Graduation Date: June, 2023</i>
+</p>
 
-### <b>TECHNICAL SKILLS</b>
+### TECHNICAL SKILLS
 Languages:
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>

@@ -1,16 +1,17 @@
 ![Jerald Constantino](https://github.com/jeraldconstantino/jeraldconstantino/blob/main/github-banner.png)
-``` Hello, world! ``` ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+`< Hello, world! />` ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ----------------------------
-I'm Jerald
-----------------------------
+# I'm Jerald
+
 <p align="justify"> Aspiring Computer Engineer who is interested in any computer software and hardware-related topics. Skilled in Python and Java programming, Machine Learning, Git, and Android development, with a good understanding of Scrum framework. Currently completed six software as academic and personal projects. Willing to collaborate with motivated developers while gaining new experience and enhancing my technical skills and practical knowledge. </p>
 
-* 🌍  I'm based in the Philippines
+* 🌍  I'm based in the <b>Philippines.</b>
 * ✉️  You can contact me at [jerald.constantino@g.batstate-u.edu.ph](mailto:jerald.constantino@g.batstate-u.edu.ph)
-* 🧠  I'm currently learning web development.
+* 🧠  I'm currently learning <b>web development</b>.
 * 🤝  I'm open to collaborating on any software development projects.
+* 📃  I'm currently working on my thesis entitled <i>Monitoring and Classification of Nitrate Sufficiency in Lettuce from an Aquaponic System based on Its Physiological Status using a Machine Vision Approach</i>.
 
-### Skills
+### Technical Skills
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -24,17 +25,15 @@ I'm Jerald
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+### Soft Skills
+`Teamwork & Collaboration` `Time management` `Critical thinking` `Leadership` `Hardworking` `Communication`
 
 ### Socials
-
 <p align="left"> <a href="https://www.facebook.com/jeraldcons.27/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/jeraldconstantino" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jerald-constantino" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
+### My GitHub Stats 
+<a href="https://github.com/jeraldconstantino" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeraldconstantino&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <a href="http://www.github.com/jeraldconstantino"><img src="https://github-readme-stats.vercel.app/api?username=jeraldconstantino&show_icons=true&hide=prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jeraldconstantino's GitHub stats" /></a>
 
 <a href="http://www.github.com/jeraldconstantino"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jeraldconstantino&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/jeraldconstantino" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeraldconstantino&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>

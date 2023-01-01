@@ -11,6 +11,8 @@
 * 🤝  I'm open to collaborating on any software development projects.
 * 📃  I'm currently working on my thesis entitled <i>Monitoring and Classification of Nitrate Sufficiency in Lettuce from an Aquaponic System based on Its Physiological Status using a Machine Vision Approach</i>.
 
+### EDUCATION
+
 ### <b>TECHNICAL SKILLS</b>
 Languages:
 <p align="left">

@@ -1,6 +1,7 @@
+![I am a Computer Engineering student](https://github.com/jeraldconstantino/jeraldconstantino/blob/main/github-banner.png)
+
 ### Hi there 👋, my name is Jerald
 #### I am a Computer Engineering student
-![I am a Computer Engineering student](https://github.com/jeraldconstantino/jeraldconstantino/blob/main/github-banner.png)
 
 Aspiring Computer Engineer who is interested in any computer software and hardware-related topics. Skilled in Python and Java programming, Machine Learning, Git, and Android development, with a good understanding of Scrum framework. Completed six software as academic and personal projects. Willing to collaborate with motivated developers while gaining new experience and enhancing my technical skills and practical knowledge.
 

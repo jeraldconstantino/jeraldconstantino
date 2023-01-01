@@ -3,7 +3,7 @@
 ----------------------------
 ## <b>I'm Jerald</b>
 
-<p align="justify"> Aspiring Computer Engineer who is interested in any computer software and hardware-related topics. Skilled in Python and Java programming, Machine Learning, Git, and Android development, with a good understanding of Scrum framework. Currently completed six software as academic and personal projects. Willing to collaborate with motivated developers while gaining new experience and enhancing my technical skills and practical knowledge. </p>
+<p align="justify"> A Computer Engineering student who is interested in any computer software and hardware-related topics. Skilled in Python and Java programming, Machine Learning, Git, and Android development, with a good understanding of Scrum framework. Currently completed six software as academic and personal projects. Willing to collaborate with motivated developers while gaining new experience and enhancing my technical skills and practical knowledge. </p>
 
 * 🌍  I'm based in the <b>Philippines</b>.
 * ✉️  You can contact me at [jerald.constantino@g.batstate-u.edu.ph](mailto:jerald.constantino@g.batstate-u.edu.ph).

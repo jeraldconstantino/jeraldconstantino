@@ -1,21 +1,16 @@
 ![Jerald Constantino](https://github.com/jeraldconstantino/jeraldconstantino/blob/main/github-banner.png)
-
-Hello, world! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-==============================================================================================================================
-I'm Jerald! 
-Computer Engineering student
+``` Hello, world! ``` ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ----------------------------
+I'm Jerald
+----------------------------
+<p align="justify"> Aspiring Computer Engineer who is interested in any computer software and hardware-related topics. Skilled in Python and Java programming, Machine Learning, Git, and Android development, with a good understanding of Scrum framework. Currently completed six software as academic and personal projects. Willing to collaborate with motivated developers while gaining new experience and enhancing my technical skills and practical knowledge. </p>
 
-Aspiring Computer Engineer who is interested in any computer software and hardware-related topics. Skilled in Python and Java programming, Machine Learning, Git, and Android development, with a good understanding of Scrum framework. Completed six software as academic and personal projects. Willing to collaborate with motivated developers while gaining new experience and enhancing my technical skills and practical knowledge.
-
-* 🌍  I'm based in Philippines
+* 🌍  I'm based in the Philippines
 * ✉️  You can contact me at [jerald.constantino@g.batstate-u.edu.ph](mailto:jerald.constantino@g.batstate-u.edu.ph)
-* 🧠  I'm learning web development.
+* 🧠  I'm currently learning web development.
 * 🤝  I'm open to collaborating on any software development projects.
 
 ### Skills
-
-
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>

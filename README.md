@@ -5,11 +5,11 @@
 
 <p align="justify"> Aspiring Computer Engineer who is interested in any computer software and hardware-related topics. Skilled in Python and Java programming, Machine Learning, Git, and Android development, with a good understanding of Scrum framework. Currently completed six software as academic and personal projects. Willing to collaborate with motivated developers while gaining new experience and enhancing my technical skills and practical knowledge. </p>
 
-* 🌍  I'm based in the <b>Philippines.</b>
-* ✉️  You can contact me at [jerald.constantino@g.batstate-u.edu.ph](mailto:jerald.constantino@g.batstate-u.edu.ph)
+* 🌍  I'm based in the <b>Philippines</b>.
+* ✉️  You can contact me at [jerald.constantino@g.batstate-u.edu.ph](mailto:jerald.constantino@g.batstate-u.edu.ph).
 * 🧠  I'm currently learning <b>web development</b>.
-* 🤝  I'm open to collaborating on any software development projects.
-* 📃  I'm currently working on my Thesis entitled <i>Monitoring and Classification of Nitrate Sufficiency in Lettuce from an Aquaponic System based on Its Physiological Status using a Machine Vision Approach</i>.
+* 🤝  I'm open to collaborating on any <b>software development projects</b>.
+* 📃  I'm currently working on my Thesis entitled <b><i>Monitoring and Classification of Nitrate Sufficiency in Lettuce from an Aquaponic System based on Its Physiological Status using a Machine Vision Approach</i></b>.
 
 ## EDUCATION
 <p align="left">

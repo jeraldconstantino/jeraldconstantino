@@ -46,7 +46,14 @@ Tools:
 </p>
 
 ### SOFT SKILLS
-`Teamwork & Collaboration` `Time management` `Critical thinking` `Leadership` `Hardworking` `Communication`
+<p align="left">
+<img width="8%" src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/teamwork.svg" alt="teamwork" />
+<img width="13.5%" src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/time-management.svg" alt="time-management" />
+<img width="10.8%" src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/critical-thinking.svg" alt="critical-thinking" />
+<img width="8%" src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/leadership.svg" alt="leadership" />
+<img width="9.5%" src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/hardworking.svg" alt="hardworking" />
+<img width="11.3%" src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/communication.svg" alt="communication" />
+</p>
 
 ### SOCIAL MEDIA ACCOUNTS
 <p align="left"> <a href="https://www.facebook.com/jeraldcons.27/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/jeraldconstantino" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jerald-constantino" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>

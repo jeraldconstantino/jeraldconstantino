@@ -1,7 +1,7 @@
 ![banner](https://github.com/jeraldconstantino/jeraldconstantino/blob/main/github-banner.png)
 `< Hello, world! />` ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ----------------------------
-## <b>I'm Jerald</b>
+## <b>I'm Jerald</b> 👨‍💻
 
 <p align="justify"> A Computer Engineering student who is interested in any computer software and hardware-related topics. Skilled in Python and Java programming, Machine Learning, Git, and Android development, with a good understanding of Scrum framework. Willing to collaborate with motivated developers while gaining new experience and enhancing my technical skills and practical knowledge. </p>
 
@@ -11,7 +11,7 @@
 * 🤝  I'm open to collaborating on any <b>software development projects</b>.
 * 📃  I'm currently working on my Thesis entitled <b><i>Monitoring and Classification of Nitrate Sufficiency in Lettuce from an Aquaponic System based on Its Physiological Status using a Machine Vision Approach</i></b>.
 
-## EDUCATION
+## 🎓 EDUCATION
 <p align="left">
 <b>Bachelor of Science in Computer Engineering</b><br>
 Batangas State University: The National Engineering University<br>

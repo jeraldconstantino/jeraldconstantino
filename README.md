@@ -18,7 +18,7 @@ Batangas State University: The National Engineering University<br>
 <i>Expected Graduation Date: June, 2023</i>
 </p>
 
-### TECHNICAL SKILLS
+## TECHNICAL SKILLS
 Languages:
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -45,17 +45,17 @@ Tools:
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-### SOFT SKILLS
+## SOFT SKILLS
 <p align="left">
-<img width="8%" src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/teamwork.svg" alt="teamwork" />
-<img width="13.5%" src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/time-management.svg" alt="time-management" />
-<img width="10.8%" src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/critical-thinking.svg" alt="critical-thinking" />
-<img width="8%" src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/leadership.svg" alt="leadership" />
-<img width="9.5%" src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/hardworking.svg" alt="hardworking" />
-<img width="11.3%" src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/communication.svg" alt="communication" />
+<img src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/teamwork.svg" height="28" alt="teamwork" />
+<img src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/time-management.svg" height="28" alt="time-management" />
+<img src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/critical-thinking.svg" height="28" alt="critical-thinking" />
+<img src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/leadership.svg" height="28" alt="leadership" />
+<img src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/hardworking.svg" height="28" alt="hardworking" />
+<img src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/communication.svg" height="28" alt="communication" />
 </p>
 
-### SOCIAL MEDIA ACCOUNTS
+## SOCIAL MEDIA ACCOUNTS
 <p align="left"> <a href="https://www.facebook.com/jeraldcons.27/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/jeraldconstantino" target="_blank" rel="noreferrer"><img src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jerald-constantino" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### MY GITHUB STATS 
@@ -63,5 +63,5 @@ Tools:
 <a href="http://www.github.com/jeraldconstantino"><img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=jeraldconstantino&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <a href="https://github.com/jeraldconstantino"><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeraldconstantino&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### SAMPLE WORKS
-<img src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/sample-work.png" alt="sample-work" />
+<h3 align="center">Sample Works</h3>
+<a href="https://github.com/jeraldconstantino?tab=repositories" target="_blank" rel="noreferrer"><img src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/sample-work.png" alt="sample-work" /></a>

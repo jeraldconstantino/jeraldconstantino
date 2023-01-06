@@ -65,7 +65,6 @@ Tools:
 ### MY GITHUB STATS 
 <a href="http://www.github.com/jeraldconstantino"><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=jeraldconstantino&show_icons=true&hide=prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jeraldconstantino's GitHub stats" /></a>
 <a href="http://www.github.com/jeraldconstantino"><img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=jeraldconstantino&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<a href="https://github.com/jeraldconstantino"><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeraldconstantino&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <h3 align="center">Sample Works</h3>
 <a href="https://github.com/jeraldconstantino?tab=repositories" target="_blank" rel="noreferrer"><img src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/sample-work.png" alt="sample-work" /></a>

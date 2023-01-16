@@ -7,7 +7,7 @@
 
 * 🌍  I'm based in the <b>Philippines</b>.
 * ✉️  You can contact me at <b>[jerald.constantino@g.batstate-u.edu.ph](mailto:jerald.constantino@g.batstate-u.edu.ph)</b>.
-* 🧠  I'm currently learning <b>web development</b>.
+* 🧠  I'm currently learning <b>Quasar Framework</b>.
 * 🤝  I'm open to collaborating on any <b>software development projects</b>.
 * 📃  I'm currently working on my Thesis entitled <b><i>Monitoring and Classification of Nitrate Sufficiency in Lettuce from an Aquaponic System based on Its Physiological Status using a Machine Vision Approach</i></b>.
 

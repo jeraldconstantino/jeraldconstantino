@@ -15,8 +15,8 @@
 <p align="left">
 <b>Bachelor of Science in Computer Engineering</b><br>
 Batangas State University: The National Engineering University<br>
-Thesis: <b> Monitoring and Classification of Nitrate Sufficiency of an Aquaponic System Based on Lettuce Morphological Status using a Machine Vision Approach</b>
-  <i><b>Expected Graduation Date: October, 2023</b></i><br>
+Thesis: <b> Monitoring and Classification of Nitrate Sufficiency of an Aquaponic System Based on Lettuce Morphological Status using a Machine Vision Approach</b><br>
+  <i><b>Expected Graduation Date: October, 2023</b></i>
 </p>
 
 ## TECHNICAL SKILLS

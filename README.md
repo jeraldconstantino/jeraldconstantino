@@ -7,15 +7,16 @@
 
 * 🌍  I'm based in the <b>Philippines</b>.
 * ✉️  You can contact me at <b>[jerald.constantino@g.batstate-u.edu.ph](mailto:jerald.constantino@g.batstate-u.edu.ph)</b>.
-* 🧠  I'm currently learning <b>PyQt5 and OpenCV</b>.
+* 🧠  I'm currently learning Vue.JS and Quasar Framework.
 * 🤝  I'm open to collaborating on any <b>software development projects</b>.
-* 📃  I'm currently working on my Thesis entitled <b><i>Monitoring and Classification of Nitrate Sufficiency of an Aquaponic System Based on Lettuce Morphological Status using a Machine Vision Approach</i></b>.
+* 📃  I'm currently working on a project using Quasar Framework.
 
 ## 🎓 EDUCATION
 <p align="left">
 <b>Bachelor of Science in Computer Engineering</b><br>
 Batangas State University: The National Engineering University<br>
-<i>Expected Graduation Date: June, 2023</i>
+<i>Expected Graduation Date: October, 2023</i><br>
+Thesis: <b> Monitoring and Classification of Nitrate Sufficiency of an Aquaponic System Based on Lettuce Morphological Status using a Machine Vision Approach</b>
 </p>
 
 ## TECHNICAL SKILLS

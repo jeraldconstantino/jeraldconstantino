@@ -15,7 +15,8 @@
 <p align="left">
 <b>Bachelor of Science in Computer Engineering</b><br>
 Batangas State University: The National Engineering University<br>
-Thesis: <b> Monitoring and Classification of Nitrate Sufficiency of an Aquaponic System Based on Lettuce Morphological Status using a Machine Vision Approach</b><br>
+Thesis: <b> Monitoring and Classification of Nitrate Sufficiency of an Aquaponic System Based on Lettuce Morphological Status using a Machine Vision Approach</b><br> 
+  <i>Component of DOST-SC4P-CRADLE Project ATLANTIS</i><br>
   <i><b>Expected Graduation Date: October, 2023</b></i>
 </p>
 
@@ -69,5 +70,3 @@ Tools:
 
 <h3 align="center">Sample Works</h3>
 <a href="https://github.com/jeraldconstantino?tab=repositories" target="_blank" rel="noreferrer"><img src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/sample-work.png" alt="sample-work" /></a>
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>

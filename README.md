@@ -1,7 +1,7 @@
 ![banner](https://github.com/jeraldconstantino/jeraldconstantino/blob/main/github-banner.png)
 `< Hello, world! />` ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ----------------------------
-# I'm [Jerald](www.linkedin.com/in/jerald-constantino) 👨‍💻
+# I'm [Jerald](https://www.linkedin.com/in/jerald-constantino) 👨‍💻
 
 <p align="justify"> A Computer Engineering student who is interested in any computer software and hardware-related topics. Skilled in Python and Java programming, Machine Learning, Git, and Android development, with a good understanding of Scrum framework. Willing to collaborate with motivated developers while gaining new experience and enhancing my technical skills and practical knowledge. </p>
 

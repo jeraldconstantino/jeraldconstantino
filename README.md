@@ -69,3 +69,10 @@ Tools:
 
 <h3 align="center">Sample Works</h3>
 <a href="https://github.com/jeraldconstantino?tab=repositories" target="_blank" rel="noreferrer"><img src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/sample-work.png" alt="sample-work" /></a>
+
+
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript">
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="jerald-constantino" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ph.linkedin.com/in/jerald-constantino?trk=profile-badge">Jerald Constantino</a></div>
+</script>
+              

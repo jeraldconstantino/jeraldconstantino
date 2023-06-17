@@ -1,7 +1,7 @@
 ![banner](https://github.com/jeraldconstantino/jeraldconstantino/blob/main/github-banner.png)
 `< Hello, world! />` ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ----------------------------
-# I'm Jerald 👨‍💻
+# I'm [Jerald](www.linkedin.com/in/jerald-constantino) 👨‍💻
 
 <p align="justify"> A Computer Engineering student who is interested in any computer software and hardware-related topics. Skilled in Python and Java programming, Machine Learning, Git, and Android development, with a good understanding of Scrum framework. Willing to collaborate with motivated developers while gaining new experience and enhancing my technical skills and practical knowledge. </p>
 
@@ -69,9 +69,3 @@ Tools:
 
 <h3 align="center">Sample Works</h3>
 <a href="https://github.com/jeraldconstantino?tab=repositories" target="_blank" rel="noreferrer"><img src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/sample-work.png" alt="sample-work" /></a>
-
-
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="jerald-constantino" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ph.linkedin.com/in/jerald-constantino?trk=profile-badge">Jerald Constantino</a></div>
-              

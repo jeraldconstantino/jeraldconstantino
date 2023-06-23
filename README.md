@@ -27,15 +27,12 @@ Languages:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 </p>  
 
-<!--
 Frameworks/Libraries:
 <p align="left">
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="36" height="36" alt="vs-code" /></a>
-<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Android_Studio_Icon_3.6.svg" width="36" height="36" alt="android-studio" /></a>
-<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" width="36" height="36" alt="PyCharm" /></a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://commons.wikimedia.org/wiki/File:Vue.js_Logo_2.svg#/media/File:Vue.js_Logo_2.svg" width="36" height="36" alt="vuejs" /></a>
+<a href=https://quasar.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/quasarframework/quasar-art/blob/master/Brand/Logo/RGB/Icon/Light%20background/QUASAR_icon_light_background_RGB.svg" width="36" height="36" alt="vuejs" /></a>
 
 </p>
--->
 
 Core Strengths:
 <p align="left">

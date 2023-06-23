@@ -46,7 +46,7 @@ Tools:
 <a href="https://www.office.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg" width="36" height="36" alt="ms-office" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/github.svg" width="36" height="36" alt="GitHub" /></a>
-<a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"><img src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/gitlab-logo-500.svg" width="45" height="36" alt="GitLab" /></a>
+<a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"><img src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/gitlab-logo-500.svg" width="45" height="45" alt="GitLab" /></a>
 <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"><img src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/anaconda-icon.png" width="36" height="36" alt="Anaconda" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>

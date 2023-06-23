@@ -54,7 +54,8 @@ Tools:
 
 ## SOFT SKILLS
 <p align="left">
-<img src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/teamwork-colab.svg" height="28" alt="teamwork" />
+<img src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/teamwork.svg" height="28" alt="teamwork" />
+<img src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/collaboration.svg" height="28" alt="collaboration" />
 <img src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/communication.svg" height="28" alt="communication" />
 <img src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/time-management.svg" height="28" alt="time-management" />
 <img src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/critical-thinking.svg" height="28" alt="critical-thinking" />

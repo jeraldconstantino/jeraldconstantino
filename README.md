@@ -3,10 +3,10 @@
 ----------------------------
 # I'm [Jerald](https://www.linkedin.com/in/jerald-constantino) 👨‍💻
 
-<p align="justify"> A Computer Engineering student who is interested in any computer software and hardware-related topics. Skilled in Python and Java programming, Machine Learning, Git, and Android development, with a good understanding of Scrum framework. Willing to collaborate with motivated developers while gaining new experience and enhancing my technical skills and practical knowledge. </p>
+<p align="justify"> A graduating computer engineering student interested in software development that leverages AI application, machine vision, hardware-software integration, and engineering application. Experienced in Python and Java programming, software and machine vision development, and Git version control system, with a good understanding of Agile methodology. Willing to be part of the organization’s success while gaining new knowledge and hands-on experience that develops technical skills and personal growth. </p>
 
 * 🌍  I'm based in the <b>Philippines</b>.
-* ✉️  You can contact me at <b>[jerald.constantino@g.batstate-u.edu.ph](mailto:jerald.constantino@g.batstate-u.edu.ph)</b>.
+* ✉️  You can contact me at <b>[constantino.jeraldm@gmail.com](mailto:constantino.jeraldm@gmail.com)</b>.
 * 🧠  I'm currently learning Vue.JS and Quasar Framework.
 * 🤝  I'm open to collaborating on any <b>software development projects</b>.
 * 📃  I'm currently working on a project using Quasar Framework.
@@ -16,7 +16,7 @@
 <b>Bachelor of Science in Computer Engineering</b><br>
 Batangas State University: The National Engineering University<br>
 Thesis: <b> Monitoring and Classification of Nitrate Sufficiency of an Aquaponic System Based on Lettuce Morphological Status using a Machine Vision Approach</b> (<i>Component of DOST-SC4P-CRADLE Project ATLANTIS</i>)<br>
-  <i><b>Expected Graduation Date: October, 2023</b></i>
+  <i><b>Expected Graduation Date: Aug 2023</b></i>
 </p>
 
 ## TECHNICAL SKILLS

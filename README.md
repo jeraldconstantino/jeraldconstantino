@@ -58,11 +58,8 @@ Tools:
 <img src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/communication.svg" height="28" alt="communication" />
 <img src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/time-management.svg" height="28" alt="time-management" />
 <img src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/critical-thinking.svg" height="28" alt="critical-thinking" />
-<img src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/hardworking.svg" height="28" alt="hardworking" />
 <img src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/goal-oriented.svg" height="28" alt="goal-oriented" />
 <img src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/flexible.svg" height="28" alt="flexible" />
-<img src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/decision-making.svg" height="28" alt="decision-making" />
-<img src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/organizational.svg" height="28" alt="organizational" />
 <img src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/leadership.svg" height="28" alt="leadership" />
 </p>
 

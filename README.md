@@ -36,6 +36,16 @@ Frameworks/Libraries:
 
 </p>
 -->
+
+Core Strengths:
+<p align="left">
+<img src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/android-development.svg" height="28" alt="android-development" />
+<img src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/web%20development.svg" height="28" alt="web-development" />
+<img src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/software-design.svg" height="28" alt="software-design" />
+<img src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/deep-learning.svg" height="28" alt="deep-learning" />
+<img src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/machine-learning.svg" height="28" alt="machine-learning" />
+</p>
+
 Tools:
 <p align="left">
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="36" height="36" alt="vs-code" /></a>

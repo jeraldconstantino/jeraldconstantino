@@ -32,7 +32,7 @@ Frameworks/Libraries:
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/V/vuejs-logo-17D586B587-seeklogo.com.png" width="36" height="36" alt="vuejs" /></a>
 <a href="https://quasar.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/quasarframework/quasar-art/blob/master/Brand/Logo/RGB/Icon/Light%20background/QUASAR_icon_light_background_RGB.svg" width="36" height="36" alt="quasar" /></a>
 <a href="https://kivymd.readthedocs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/kivymd/internal/main/logo/kivymd_logo_blue.png" width="36" height="36" alt="kivymd" /></a>
-<a href=https://pypi.org/project/PyQt5/" target="_blank" rel="noreferrer"><img src="https://www.logo.wine/a/logo/PyQt/PyQt-Logo.wine.svg" width="36" height="36" alt="pyqt5" /></a>
+<a href="https://pypi.org/project/PyQt5/" target="_blank" rel="noreferrer"><img src="https://www.logo.wine/a/logo/PyQt/PyQt-Logo.wine.svg" width="36" height="36" alt="pyqt5" /></a>
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/5/53/OpenCV_Logo_with_text.png" width="36" height="36" alt="opencv" /></a>
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="36" height="36" alt="tensorflow" /></a>
 <a href="https://www.android.com/intl/en_ph/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Android_logo_2019_%28stacked%29.svg" width="36" height="36" alt="android" /></a> 

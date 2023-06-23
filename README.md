@@ -30,8 +30,8 @@ Languages:
 Frameworks/Libraries:
 <p align="left">
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/V/vuejs-logo-17D586B587-seeklogo.com.png" width="36" height="36" alt="vuejs" /></a>
-<a href=https://quasar.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/quasarframework/quasar-art/blob/master/Brand/Logo/RGB/Icon/Light%20background/QUASAR_icon_light_background_RGB.svg" width="36" height="36" alt="vuejs" /></a>
-
+<a href=https://quasar.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/quasarframework/quasar-art/blob/master/Brand/Logo/RGB/Icon/Light%20background/QUASAR_icon_light_background_RGB.svg" width="36" height="36" alt="quasar" /></a>
+<a href=https://kivymd.readthedocs.io/en/1.1.1/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/kivymd/internal/main/logo/kivymd_logo_blue.png" width="36" height="36" alt="kivymd" /></a>
 </p>
 
 Core Strengths:

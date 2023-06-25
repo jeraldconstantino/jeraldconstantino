@@ -3,7 +3,7 @@
 ----------------------------
 # I'm [Jerald](https://www.linkedin.com/in/jerald-constantino) 👨‍💻
 
-<p align="justify"> An aspiring software engineer interested in software development that leverages AI application, machine vision, hardware-software integration, and engineering application. Experienced in Python and Java programming, software and machine vision development, and Git version control system, with a good understanding of Agile methodology. Willing to be part of the organization’s success while gaining new knowledge and hands-on experience that develops technical skills and personal growth. </p>
+<p align="justify"> An aspiring software engineer interested in software development that leverages AI application, machine vision, hardware-software interaction, and engineering application. Experienced in Python and Java programming, software and machine vision development, and Git version control system, with a good understanding of Agile methodology. Willing to be part of the organization’s success while gaining new knowledge and hands-on experience that develops technical skills and personal growth. </p>
 
 * 🌍  I'm based in the <b>Philippines</b>.
 * ✉️  You can contact me at <b>[constantino.jeraldm@gmail.com](mailto:constantino.jeraldm@gmail.com)</b>.

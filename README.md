@@ -3,20 +3,18 @@
 ----------------------------
 # I'm [Jerald](https://www.linkedin.com/in/jerald-constantino) 👨‍💻
 
-<p align="justify"> An aspiring software engineer interested in software development that leverages AI application, machine vision, hardware-software interaction, and engineering application. Experienced in Python and Java programming, software and machine vision development, and Git version control system, with a good understanding of Agile methodology. Willing to be part of the organization’s success while gaining new knowledge and hands-on experience that develops technical skills and personal growth. </p>
+<p align="justify"> Data scientist interested in AI-driven application, machine vision, hardware-software interaction, and engineering application. Experienced in Python and Java programming, exploratory data analysis, machine learning, software and machine vision development, and Git version control system, with a good understanding of Agile methodology. Willing to be part of the organization’s success while gaining new knowledge and hands-on experience that develops technical skills and personal growth. </p>
 
 * 🌍  I'm based in the <b>Philippines</b>.
 * ✉️  You can contact me at <b>[constantino.jeraldm@gmail.com](mailto:constantino.jeraldm@gmail.com)</b>.
-* 🧠  I'm currently learning Vue.JS and Quasar Framework.
-* 🤝  I'm open to collaborating on any <b>software development projects</b>.
-* 📃  I'm currently working on a project using Quasar Framework.
+* 🧠  I'm currently learning Data science.
+* 🤝  I'm open to collaborating on any <b>software development and embedded system projects</b>.
 
 ## 🎓 EDUCATION
 <p align="left">
-<b>Bachelor of Science in Computer Engineering</b><br>
+<b>Bachelor of Science in Computer Engineering</b> <i>(2019 - 2023)</i><br>
 Batangas State University: The National Engineering University<br>
 Thesis: <b> Monitoring and Classification of Nitrate Sufficiency of an Aquaponic System Based on Lettuce Morphological Status using a Machine Vision Approach</b> (<i>Component of DOST-SC4P-CRADLE Project ATLANTIS</i>)<br>
-  <i><b>Expected Graduation Date: Jul 2023</b></i>
 </p>
 
 ## PROFESSIONAL COMPETENCIES & CORE STRENGTHS

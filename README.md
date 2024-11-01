@@ -3,11 +3,11 @@
 ----------------------------
 # I'm [Jerald](https://www.linkedin.com/in/jerald-constantino) 👨‍💻
 
-<p align="justify"> Data scientist interested in AI-driven application, machine vision, hardware-software interaction, and engineering application. Experienced in Python and Java programming, exploratory data analysis, machine learning, software and machine vision development, and Git version control system, with a good understanding of Agile methodology. Willing to be part of the organization’s success while gaining new knowledge and hands-on experience that develops technical skills and personal growth. </p>
+<p align="justify"> Aspiring AI Engineer interested in AI-driven application, machine vision, hardware-software interaction, and engineering application. Experienced in Python and Java programming, exploratory data analysis, machine learning, software and machine vision development, and Git version control system, with a good understanding of Agile methodology. Willing to be part of the organization’s success while gaining new knowledge and hands-on experience that develops technical skills and personal growth. </p>
 
 * 🌍  I'm based in the <b>Philippines</b>.
 * ✉️  You can contact me at <b>[constantino.jeraldm@gmail.com](mailto:constantino.jeraldm@gmail.com)</b>.
-* 🧠  I'm currently learning Data science.
+* 🧠  I'm currently learning data science and generative AI.
 * 🤝  I'm open to collaborating on any <b>software development and embedded system projects</b>.
 
 ## 🎓 EDUCATION
@@ -15,6 +15,11 @@
 <b>Bachelor of Science in Computer Engineering</b> <i>(2019 - 2023)</i><br>
 Batangas State University: The National Engineering University<br>
 Thesis: <b> Monitoring and Classification of Nitrate Sufficiency of an Aquaponic System Based on Lettuce Morphological Status using a Machine Vision Approach</b> (<i>Component of DOST-SC4P-CRADLE Project ATLANTIS</i>)<br>
+</p>
+
+<p align="left">
+<b>Master of Science in Computer Engineering</b> <i>(2024 - Present)</i><br>
+Mapúa University
 </p>
 
 ## PROFESSIONAL COMPETENCIES & CORE STRENGTHS

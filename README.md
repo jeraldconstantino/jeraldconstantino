@@ -12,14 +12,14 @@
 
 ## 🎓 EDUCATION
 <p align="left">
-<b>Bachelor of Science in Computer Engineering</b> <i>(2019 - 2023)</i><br>
-Batangas State University: The National Engineering University<br>
-Thesis: <b> Monitoring and Classification of Nitrate Sufficiency of an Aquaponic System Based on Lettuce Morphological Status using a Machine Vision Approach</b> (<i>Component of DOST-SC4P-CRADLE Project ATLANTIS</i>)<br>
+<b>Master of Science in Computer Engineering</b> <i>(2024 - Present)</i><br>
+Mapúa University
 </p>
 
 <p align="left">
-<b>Master of Science in Computer Engineering</b> <i>(2024 - Present)</i><br>
-Mapúa University
+<b>Bachelor of Science in Computer Engineering</b> <i>(2019 - 2023)</i><br>
+Batangas State University: The National Engineering University<br>
+Thesis: <b> Monitoring and Classification of Nitrate Sufficiency of an Aquaponic System Based on Lettuce Morphological Status using a Machine Vision Approach</b> (<i>Component of DOST-SC4P-CRADLE Project ATLANTIS</i>)<br>
 </p>
 
 ## PROFESSIONAL COMPETENCIES & CORE STRENGTHS

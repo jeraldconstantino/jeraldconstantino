@@ -7,8 +7,8 @@
 
 * 🌍  I'm based in the <b>Philippines</b>.
 * ✉️  You can contact me at <b>[constantino.jeraldm@gmail.com](mailto:constantino.jeraldm@gmail.com)</b>.
-* 🧠  I'm currently learning data science and generative AI.
-* 🤝  I'm open to collaborating on any <b>software development and embedded system projects</b>.
+* 🧠  I'm currently learning <b>data science and generative AI</b>.
+* 🤝  I'm open to collaborating on any <b>AI, software development, and embedded system projects</b>.
 
 ## 🎓 EDUCATION
 <p align="left">
@@ -32,7 +32,6 @@ Languages:
 
 Frameworks/Libraries:
 <p align="left">
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/V/vuejs-logo-17D586B587-seeklogo.com.png" width="36" height="36" alt="vuejs" /></a>
 <a href="https://quasar.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/quasarframework/quasar-art/blob/master/Brand/Logo/RGB/Icon/Light%20background/QUASAR_icon_light_background_RGB.svg" width="36" height="36" alt="quasar" /></a>
 <a href="https://kivymd.readthedocs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/kivymd/internal/main/logo/kivymd_logo_blue.png" width="36" height="36" alt="kivymd" /></a>
 <a href="https://pypi.org/project/PyQt5/" target="_blank" rel="noreferrer"><img src="https://www.logo.wine/a/logo/PyQt/PyQt-Logo.wine.svg" width="36" height="36" alt="pyqt5" /></a>
@@ -56,8 +55,6 @@ Tools:
 <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Android_Studio_Icon_3.6.svg" width="36" height="36" alt="android-studio" /></a>
 <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" width="36" height="36" alt="PyCharm" /></a>
 <a href="https://netbeans.apache.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="36" height="36" alt="NetBeans" /></a>
-<a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/E/eclipse-logo-85FE4BEA34-seeklogo.com.png" width="36" height="36" alt="Eclipse" /></a>
-<a href="https://www.office.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg" width="36" height="36" alt="ms-office" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/github.svg" width="36" height="36" alt="GitHub" /></a>
 <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" width="36" height="36" 

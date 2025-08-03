@@ -3,7 +3,7 @@
 ----------------------------
 # I'm [Jerald](https://www.linkedin.com/in/jerald-constantino) 👨‍💻
 
-<p align="justify"> Computer Engineer and Data Scientist interested in AI-driven application, machine vision, hardware-software interaction, and engineering application. Have strong track record of building and deploying deep learning and generative AI solutions that deliver measurable business impact. Skilled in large language models (LLMs), machine vision, and software development, with experience optimizing processes in global manufacturing environments. Proven ability to bridge technical expertise with cross-functional collaboration, supported by ongoing master’s studies in Computer Engineering and a strong foundation in applied AI and business intelligence. </p>
+<p align="justify"> Results-driven Computer Engineer with 2 years of professional experience as a Data Scientist, demonstrating a proven track record in the end-to-end system deployment of deep learning and generative AI solutions that deliver measurable business impact. Skilled in large language models, machine vision, deep learning, and embedded AI systems, with hands-on experience optimizing operations in global manufacturing environments. Proven ability to bridge technical expertise with cross-functional collaboration, supported by ongoing master’s studies in Computer Engineering and a strong foundation in applied AI, backend development, and data analytics engineering. </p>
 
 * 🌍  I'm based in the <b>Philippines</b>.
 * ✉️  You can contact me at <b>[constantino.jeraldm@gmail.com](mailto:constantino.jeraldm@gmail.com)</b>.

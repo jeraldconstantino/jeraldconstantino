@@ -1,86 +1,100 @@
-![banner](https://github.com/jeraldconstantino/jeraldconstantino/blob/main/github-banner.png)
-`< Hello, world! />` ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-----------------------------
-# I'm [Jerald](https://www.linkedin.com/in/jerald-constantino) 👨‍💻
+![Jerald Constantino: Data Scientist, Computer Engineer, and AI/ML Engineer](banner.png)
 
-<p align="justify"> Results-driven Computer Engineer with 2 years of professional experience as a Data Scientist, demonstrating a proven track record in the end-to-end system deployment of deep learning and generative AI solutions that deliver measurable business impact. Skilled in large language models, machine vision, deep learning, and embedded AI systems, with hands-on experience optimizing operations in global manufacturing environments. Proven ability to bridge technical expertise with cross-functional collaboration, supported by ongoing master’s studies in Computer Engineering and a strong foundation in applied AI, backend development, and data analytics engineering. </p>
-
-* 🌍  I'm based in the <b>Philippines</b>.
-* ✉️  You can contact me at <b>[constantino.jeraldm@gmail.com](mailto:constantino.jeraldm@gmail.com)</b>.
-* 🧠  I'm currently learning <b>data science and generative AI</b>.
-* 🤝  I'm open to collaborating on any <b>AI, software development, and embedded system projects</b>.
-
-## 🎓 EDUCATION
-<p align="left">
-<b>Master of Science in Computer Engineering</b> <i>(2024 - Present)</i><br>
-Mapúa University
+<p align="center">
+  <a href="https://www.linkedin.com/in/jerald-constantino"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&amp;logo=linkedin&amp;logoColor=white" /></a>
+  <a href="mailto:constantino.jeraldm@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=flat&amp;logo=gmail&amp;logoColor=white" /></a>
+  <a href="https://github.com/jeraldconstantino?tab=repositories"><img alt="GitHub projects" src="https://img.shields.io/badge/Projects-181717?style=flat&amp;logo=github&amp;logoColor=white" /></a>
 </p>
 
-<p align="left">
-<b>Bachelor of Science in Computer Engineering</b> <i>(2019 - 2023)</i><br>
-Batangas State University: The National Engineering University<br>
-Thesis: <b> Monitoring and Classification of Nitrate Sufficiency of an Aquaponic System Based on Lettuce Morphological Status using a Machine Vision Approach</b> (<i>Component of DOST-SC4P-CRADLE Project ATLANTIS</i>)<br>
+## About me
+
+I build production-oriented AI systems across generative AI, computer vision, and intelligent automation. I enjoy taking projects from model experimentation to APIs, dashboards, embedded controllers, and real-world deployment.
+
+| | |
+| --- | --- |
+| **Building** | [HANAS](https://github.com/jeraldconstantino/hanas), a safety-gated agentic AI system for hydroponic control |
+| **Researching** | Reliable agentic AI for autonomous cyber-physical systems |
+| **Open to** | Applied AI, computer vision, and intelligent automation collaborations |
+
+## Featured projects
+
+<p align="center">
+  <a href="https://github.com/jeraldconstantino/hanas">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jeraldconstantino&amp;repo=hanas&amp;theme=github_dark&amp;description_lines_count=2" />
+      <img width="49%" alt="HANAS repository" src="https://github-readme-stats.vercel.app/api/pin/?username=jeraldconstantino&amp;repo=hanas&amp;theme=default&amp;description_lines_count=2" />
+    </picture>
+  </a>
+  <a href="https://github.com/jeraldconstantino/ai-assistant-rag">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jeraldconstantino&amp;repo=ai-assistant-rag&amp;theme=github_dark&amp;description_lines_count=2" />
+      <img width="49%" alt="RAG AI Assistant repository" src="https://github-readme-stats.vercel.app/api/pin/?username=jeraldconstantino&amp;repo=ai-assistant-rag&amp;theme=default&amp;description_lines_count=2" />
+    </picture>
+  </a>
 </p>
 
-## PROFESSIONAL COMPETENCIES & CORE STRENGTHS
-Languages:
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-</p>  
-
-Frameworks/Libraries:
-<p align="left">
-<a href="https://quasar.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/quasarframework/quasar-art/blob/master/Brand/Logo/RGB/Icon/Light%20background/QUASAR_icon_light_background_RGB.svg" width="36" height="36" alt="quasar" /></a>
-<a href="https://kivymd.readthedocs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/kivymd/internal/main/logo/kivymd_logo_blue.png" width="36" height="36" alt="kivymd" /></a>
-<a href="https://pypi.org/project/PyQt5/" target="_blank" rel="noreferrer"><img src="https://www.logo.wine/a/logo/PyQt/PyQt-Logo.wine.svg" width="36" height="36" alt="pyqt5" /></a>
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/5/53/OpenCV_Logo_with_text.png" width="36" height="36" alt="opencv" /></a>
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="36" height="36" alt="tensorflow" /></a>
-<a href="https://www.android.com/intl/en_ph/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Android_logo_2019_%28stacked%29.svg" width="36" height="36" alt="android" /></a> 
+<p align="center">
+  <a href="https://github.com/jeraldconstantino/nitrate-sufficiency-monitoring-system">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jeraldconstantino&amp;repo=nitrate-sufficiency-monitoring-system&amp;theme=github_dark&amp;description_lines_count=2" />
+      <img width="49%" alt="Nitrate Sufficiency Monitoring System repository" src="https://github-readme-stats.vercel.app/api/pin/?username=jeraldconstantino&amp;repo=nitrate-sufficiency-monitoring-system&amp;theme=default&amp;description_lines_count=2" />
+    </picture>
+  </a>
+  <a href="https://github.com/jeraldconstantino/knee-osteoarthritis-detection">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jeraldconstantino&amp;repo=knee-osteoarthritis-detection&amp;theme=github_dark&amp;description_lines_count=2" />
+      <img width="49%" alt="Knee Osteoarthritis Detection repository" src="https://github-readme-stats.vercel.app/api/pin/?username=jeraldconstantino&amp;repo=knee-osteoarthritis-detection&amp;theme=default&amp;description_lines_count=2" />
+    </picture>
+  </a>
 </p>
 
-Core Strengths:
-<p align="left">
-<img src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/android-development.svg" height="28" alt="android-development" />
-<img src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/web%20development.svg" height="28" alt="web-development" />
-<img src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/software-design.svg" height="28" alt="software-design" />
-<img src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/deep-learning.svg" height="28" alt="deep-learning" />
-<img src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/machine-learning.svg" height="28" alt="machine-learning" />
+### My contribution
+
+| Project | Role | Outcome |
+| --- | --- | --- |
+| **HANAS** | Lead researcher and primary developer | Traceable, safety-gated autonomous nutrient-regulation experiments |
+| **RAG AI Assistant** | Independent developer | Searchable, conversational access to user-provided documents |
+| **Nitrate Monitoring** | Project lead | Live machine-vision inference connected to automated physical control |
+| **Knee Osteoarthritis Detection** | Project contributor | Instance-segmentation workflow for distinguishing healthy and degenerative knees in radiographs |
+
+## Technical toolkit
+
+| Area | Technologies |
+| --- | --- |
+| AI and machine learning | <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=python&amp;logoColor=white" /> <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&amp;logo=tensorflow&amp;logoColor=white" /> <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&amp;logo=opencv&amp;logoColor=white" /> <img alt="Ultralytics YOLO" src="https://img.shields.io/badge/YOLO-111F68?style=flat&amp;logo=ultralytics&amp;logoColor=white" /> <img alt="Agentic AI" src="https://img.shields.io/badge/Agentic_AI-0A66C2?style=flat" /> <img alt="RAG" src="https://img.shields.io/badge/RAG-0A66C2?style=flat" /> |
+| Backend and data | <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat&amp;logo=fastapi&amp;logoColor=white" /> <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&amp;logo=postgresql&amp;logoColor=white" /> |
+| Interfaces and applications | <img alt="React" src="https://img.shields.io/badge/React-087EA4?style=flat&amp;logo=react&amp;logoColor=white" /> <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&amp;logo=streamlit&amp;logoColor=white" /> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=flat&amp;logo=javascript&amp;logoColor=F7DF1E" /> <img alt="PyQt5" src="https://img.shields.io/badge/PyQt5-41CD52?style=flat&amp;logo=qt&amp;logoColor=white" /> |
+| Embedded systems | <img alt="ESP32" src="https://img.shields.io/badge/ESP32-E7352C?style=flat&amp;logo=espressif&amp;logoColor=white" /> <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&amp;logo=raspberrypi&amp;logoColor=white" /> |
+| Tools and workflow | <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&amp;logo=git&amp;logoColor=white" /> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&amp;logo=github&amp;logoColor=white" /> <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat&amp;logo=jupyter&amp;logoColor=white" /> <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44A833?style=flat&amp;logo=anaconda&amp;logoColor=white" /> <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&amp;logo=figma&amp;logoColor=white" /> |
+
+## GitHub at a glance
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jeraldconstantino&amp;show_icons=true&amp;hide_border=true&amp;theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=jeraldconstantino&amp;show_icons=true&amp;hide_border=true&amp;theme=default" />
+    <img height="165" alt="Jerald's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=jeraldconstantino&amp;show_icons=true&amp;hide_border=true" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=jeraldconstantino&amp;hide_border=true&amp;theme=github-dark-blue" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=jeraldconstantino&amp;hide_border=true&amp;theme=default" />
+    <img height="165" alt="Jerald's GitHub contribution streak" src="https://streak-stats.demolab.com?user=jeraldconstantino&amp;hide_border=true" />
+  </picture>
 </p>
 
-Tools:
-<p align="left">
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="36" height="36" alt="vs-code" /></a>
-<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Android_Studio_Icon_3.6.svg" width="36" height="36" alt="android-studio" /></a>
-<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" width="36" height="36" alt="PyCharm" /></a>
-<a href="https://netbeans.apache.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="36" height="36" alt="NetBeans" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/github.svg" width="36" height="36" alt="GitHub" /></a>
-<a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" width="36" height="36" 
- alt="GitLab" /></a>
-<a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"><img src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/anaconda-icon.png" width="36" height="36" alt="Anaconda" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
+## Research background
 
-## SOFT SKILLS
-<p align="left">
-<img src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/teamwork.svg" height="28" alt="teamwork" />
-<img src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/collaboration.svg" height="28" alt="collaboration" />
-<img src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/communication.svg" height="28" alt="communication" />
-<img src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/time-management.svg" height="28" alt="time-management" />
-<img src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/critical-thinking.svg" height="28" alt="critical-thinking" />
-<img src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/goal-oriented.svg" height="28" alt="goal-oriented" />
-<img src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/flexible.svg" height="28" alt="flexible" />
-<img src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/leadership.svg" height="28" alt="leadership" />
-</p>
+**Graduate research** | MS Computer Engineering, Mapúa University (2024-present)<br />
+Safety-Gated Agentic AI Cyber-Physical System for Autonomous pH and EC Regulation in Hydroponic Lettuce Cultivation
 
-## SOCIAL MEDIA ACCOUNTS
-<p align="left"> <a href="https://www.facebook.com/jeraldcons.27/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/jeraldconstantino" target="_blank" rel="noreferrer"><img src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jerald-constantino" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+**Undergraduate research** | BS Computer Engineering, Batangas State University (2019-2023)<br />
+Monitoring and Classification of Nitrate Sufficiency of an Aquaponic System Based on Lettuce Morphological Status Using a Machine Vision Approach<br />
+<sub>Component of DOST-SC4P-CRADLE Project ATLANTIS</sub>
 
-### MY GITHUB STATS 
-<a href="http://www.github.com/jeraldconstantino"><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=jeraldconstantino&show_icons=true&hide=prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jeraldconstantino's GitHub stats" /></a>
-<a href="http://www.github.com/jeraldconstantino"><img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=jeraldconstantino&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## Beyond the code
 
-<h3 align="center">Sample Works</h3>
-<a href="https://github.com/jeraldconstantino?tab=repositories" target="_blank" rel="noreferrer"><img src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/sample-work.png" alt="sample-work" /></a>
+My guiding idea is **engineering technology for human flourishing**. I enjoy turning research into systems that interact with the physical world, especially in reliable AI, smart agriculture, and tools that make complex technical work easier for people.
+
+## Let's connect
+
+I enjoy meeting people working on useful, technically challenging AI products. Reach me through [LinkedIn](https://www.linkedin.com/in/jerald-constantino) or [email](mailto:constantino.jeraldm@gmail.com).
